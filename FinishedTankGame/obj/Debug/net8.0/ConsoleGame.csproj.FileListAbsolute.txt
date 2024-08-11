@@ -1,0 +1,14 @@
+C:\Users\me\Desktop\FinishedTankGame\bin\Debug\net8.0\ConsoleGame.exe
+C:\Users\me\Desktop\FinishedTankGame\bin\Debug\net8.0\ConsoleGame.deps.json
+C:\Users\me\Desktop\FinishedTankGame\bin\Debug\net8.0\ConsoleGame.runtimeconfig.json
+C:\Users\me\Desktop\FinishedTankGame\bin\Debug\net8.0\ConsoleGame.dll
+C:\Users\me\Desktop\FinishedTankGame\bin\Debug\net8.0\ConsoleGame.pdb
+C:\Users\me\Desktop\FinishedTankGame\obj\Debug\net8.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\me\Desktop\FinishedTankGame\obj\Debug\net8.0\ConsoleGame.AssemblyInfoInputs.cache
+C:\Users\me\Desktop\FinishedTankGame\obj\Debug\net8.0\ConsoleGame.AssemblyInfo.cs
+C:\Users\me\Desktop\FinishedTankGame\obj\Debug\net8.0\ConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\me\Desktop\FinishedTankGame\obj\Debug\net8.0\ConsoleGame.dll
+C:\Users\me\Desktop\FinishedTankGame\obj\Debug\net8.0\refint\ConsoleGame.dll
+C:\Users\me\Desktop\FinishedTankGame\obj\Debug\net8.0\ConsoleGame.pdb
+C:\Users\me\Desktop\FinishedTankGame\obj\Debug\net8.0\ConsoleGame.genruntimeconfig.cache
+C:\Users\me\Desktop\FinishedTankGame\obj\Debug\net8.0\ref\ConsoleGame.dll
